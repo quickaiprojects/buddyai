@@ -95,3 +95,5 @@ Voice input (microphone / push-to-talk) isn't wired up yet - this build is text-
 # NOT EVERY FILE IS IN THIS GITHUB PAGE GO TO THIS WEBSITE TO DOWNLOAD THE REST:
 https://mega.nz/folder/SpgEFDBS#ATs4BSWGioCR95FF0kAYxA < PIPER
 https://mega.nz/folder/jx5C2JCI#rMmVARbKL8gIi8mmo83Pvw < VOICES
+
+add these folders to the buddyai\buddy\ for everything to work, thanks!!
