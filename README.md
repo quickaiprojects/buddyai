@@ -1,3 +1,4 @@
+# !!SCROLL ALL THE WAY DOWN TO GET THE REST OF THE FOLDERS FOR THIS TO WORK!!
 # Buddy - Setup (Windows)
 
 ## 1. Install Python packages
