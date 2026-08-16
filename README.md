@@ -86,3 +86,12 @@ and Calculator should actually open - that's the tool-calling system working, no
 ## What's not in this version
 
 Voice input (microphone / push-to-talk) isn't wired up yet - this build is text-in, voice-out. The architecture (separate `tools.py`, `llm.py`, `tts.py`, `ui.py`) is set up so voice input can be added later as its own module without touching the rest.
+
+
+
+
+
+
+# NOT EVERY FILE IS IN THIS GITHUB PAGE GO TO THIS WEBSITE TO DOWNLOAD THE REST:
+https://mega.nz/folder/SpgEFDBS#ATs4BSWGioCR95FF0kAYxA < PIPER
+https://mega.nz/folder/jx5C2JCI#rMmVARbKL8gIi8mmo83Pvw < VOICES
