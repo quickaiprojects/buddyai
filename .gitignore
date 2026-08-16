@@ -1,0 +1,17 @@
+# Personal config - contains your own settings, not meant to be shared
+settings.json
+
+# Large binaries - people should download these themselves per the README,
+# not pull them out of git history
+piper/*.exe
+piper/*.dll
+piper/espeak-ng-data/
+voices/*.onnx
+voices/*.onnx.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Test files
+test.wav
